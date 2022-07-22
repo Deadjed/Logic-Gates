@@ -1,6 +1,6 @@
 # Logic-Gates
 
-##### AND
+#### AND
 two inputs, outputs one if both inputs are one.
 
 
