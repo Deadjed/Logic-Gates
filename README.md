@@ -1,5 +1,9 @@
 # Logic-Gates
+   
 
+#### ADD 16
+Adds two 16-bit inputs, The most significant carry bit is ignored.   
+   
 #### AND
 two inputs, outputs one if both inputs are one.
 
