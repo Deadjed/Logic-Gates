@@ -7,6 +7,10 @@ Adds two 16-bit inputs, The most significant carry bit is ignored.
 #### AND
 two inputs, outputs one if both inputs are one.
    
+#### BIT
+one bit register, reads previous bit until load = 1.   
+treat the 'load' bit as 0 = read, 1 = write.   
+   
 #### FULL ADDER
 three inputs, outputs **sum** of bits, and **carry** bit
    
